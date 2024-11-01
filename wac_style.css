@@ -1,0 +1,78 @@
+/* Notifications*/
+
+.wac_mainBox {
+		margin:10px auto;
+		float:none;
+		width:100%;
+		box-sizing:border-box;
+		padding:10px;
+		box-sizing:border-box;
+		font-family: Arial, sans-serif;
+		margin-bottom:50px;
+		display:block;
+	}
+	.wac_title {
+		font-size:16px;
+		width:100%;
+		display:block;
+		font-weight:700;
+	}
+	
+	.wac_mainBox .form-sec 
+	{
+		display:block;
+		width:100%;
+		margin-top:10px;
+	}
+	.wac_mainBox .wac-input {
+		display:block;
+		font-size:16px;
+		padding:8px;
+		color:#2F2F2F;
+		border:1px solid #0B4D68;
+		width:100%;
+		border-left:10px solid #0B4D68;
+	}
+	
+	.wac_mainBox .wac-sub-btn {
+		font-size:16px;
+		background:#116F96;
+		padding:10px 40px;
+		cursor:pointer;
+		color:#fff;
+		display:inline-block;
+	}
+	.wac_mainBox .wac-sub-btn:hover {
+		background:#0B4D68;
+	}
+	
+	.wac_mainBox .wac-results-sec {
+		width:100%;
+		box-sizing:border-box;
+		border:1px dashed #076C19;
+		padding:10px;
+		margin-top:30px;
+		box-sizing:border-box;
+		
+	}
+	
+	.wac_mainBox .wac-results-sec table {
+		border-collapse:collapse;
+		box-sizing:border-box;
+	}
+	.wac_mainBox .wac-results-sec td {
+		border:1px solid #0B4D68;
+		border-collapse:collapse;
+		padding:5px;
+		text-align:center;
+		
+	}
+	.wac_mainBox .wac-results-sec td.title {
+		background:#FFDEA1;
+		color:#000000;
+		text-align:left !important;
+	}
+	.wac-value {
+		font-weight:700;
+	}
+	
